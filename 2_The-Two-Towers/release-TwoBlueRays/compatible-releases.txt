@@ -1,6 +1,2 @@
-These subtitles are timed for the ASIN B09CGMTF6R box set release where the movie is divided into 2 discs.
-
-
-
-
-
+These subtitles are timed for, and compatible with releases where the movie is divided into 2 discs:
+- The ASIN B09CGMTF6R box set.
