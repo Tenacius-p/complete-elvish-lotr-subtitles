@@ -1892,7 +1892,7 @@ The white tower of Ecthelion.
 
 435
 00:54:00,760 --> 00:54:03,933
-Glimmering like a spike 
+Glimmering like a spike
 of pearl and silver.
 
 436
@@ -2111,7 +2111,8 @@ the course of the future.
 
 488
 01:00:23,061 --> 01:00:28,562
-Do you know how the orcs first came into being?
+Do you know how the
+orcs first came into being?
 
 489
 01:00:29,542 --> 01:00:32,642
@@ -2146,33 +2147,34 @@ My fighting Uruk-hai...
 ...whom do you serve?
 
 497
-01:01:00,231 --> 01:01:02,792
+01:01:00,344 --> 01:01:02,905
 Saruman!
 
 498
-01:01:23,174 --> 01:01:26,474
-Hunt them down. Do not stop until, they are found.
+01:01:23,107 --> 01:01:26,914
+Hunt them down. Do not
+stop until, they are found.
 
 499
-01:01:26,874 --> 01:01:29,674
+01:01:27,103 --> 01:01:29,674
 You do not know pain.
 You do not know fear.
 
 500
-01:01:29,974 --> 01:01:32,775
+01:01:30,161 --> 01:01:32,187
 You will taste man-flesh!
 
 501
-01:01:37,975 --> 01:01:41,476
+01:01:38,337 --> 01:01:41,608
 One of the halflings carries
 something of great value.
 
 502
-01:01:41,876 --> 01:01:45,876
+01:01:41,971 --> 01:01:46,399
 Bring them to me alive and unspoiled.
 
 503
-01:01:47,976 --> 01:01:49,176
+01:01:48,203 --> 01:01:49,403
 Kill the others.
 
 504
@@ -2181,1073 +2183,1105 @@ Kill the others.
 {\an8} [English] ♫ Alas! Like gold fall leaves in the wind. ♫
 
 505
-01:02:08,378 --> 01:02:13,578
+01:02:08,578 --> 01:02:13,778
 Never before have we clad strangers
 in the garb of our own people.
 
 506
-01:02:14,879 --> 01:02:18,579
+01:02:15,346 --> 01:02:19,046
 May these cloaks help shield
 you from unfriendly eyes.
 
 507
-01:02:25,880 --> 01:02:27,480
+01:02:26,266 --> 01:02:27,866
 Lembas.
 
 508
-01:02:27,780 --> 01:02:29,380
+01:02:28,233 --> 01:02:29,833
 Elvish waybread.
 
 509
-01:02:31,780 --> 01:02:34,680
+01:02:32,200 --> 01:02:35,100
 One small bite is enough to fill
 the stomach of a grown man.
 
 510
-01:02:41,281 --> 01:02:43,181
+01:02:41,800 --> 01:02:43,700
 How many did you eat?
 
 511
-01:02:43,181 --> 01:02:44,981
+01:02:43,725 --> 01:02:45,525
 Four.
 
 512
-01:02:50,882 --> 01:02:53,382
+01:02:51,298 --> 01:02:53,881
 Every league you travel south,
 the danger will increase.
 
 513
-01:02:53,682 --> 01:02:57,583
+01:02:54,022 --> 01:02:57,703
 Mordor orcs now hold the
 eastern shore of the Anduin.
 
 514
-01:02:57,983 --> 01:03:00,383
-Nor will you find safety on the western bank.
+01:02:58,313 --> 01:03:00,658
+Nor will you find safety
+on the western bank.
 
 515
-01:03:00,683 --> 01:03:04,383
+01:03:01,060 --> 01:03:04,918
 Strange creatures bearing the mark of the
 white hand have been seen on our borders.
 
 516
-01:03:04,783 --> 01:03:09,584
+01:03:05,198 --> 01:03:09,903
 Seldom do orcs journey in the open
 under the sun, yet these have done so.
 
 517
-01:03:18,014 --> 01:03:20,159
+01:03:18,301 --> 01:03:20,628
 [Sindarin] <i>Le aphadar aen.</i>
 [English] You are being tracked.
 
 518
-01:03:22,485 --> 01:03:26,885
+01:03:22,831 --> 01:03:27,231
 By river you have the chance of outrunning
 the enemy to the falls of Rauros.
 
 519
-01:03:44,387 --> 01:03:48,987
-<i>My gift for you, Legolas, is a bow of the Galadhrim.</i>
+01:03:44,874 --> 01:03:48,987
+<i>My gift for you, Legolas,
+is a bow of the Galadhrim.</i>
 
 520
-01:03:49,387 --> 01:03:52,688
+01:03:49,747 --> 01:03:53,048
 <i>Worthy of the skill of our woodland kin.</i>
 
 521
-01:03:58,288 --> 01:04:00,688
+01:03:58,573 --> 01:04:00,990
 <i>These are the daggers of the Noldorin.</i>
 
 522
-01:04:00,988 --> 01:04:04,789
+01:04:01,263 --> 01:04:04,051
 <i>They have already seen service in war.</i>
 
 523
-01:04:05,089 --> 01:04:07,289
+01:04:04,567 --> 01:04:06,846
 <i>Do not fear, young Peregrin Took.</i>
 
 524
-01:04:07,589 --> 01:04:10,689
+01:04:07,968 --> 01:04:10,582
 <i>You will find your courage.</i>
 
 525
-01:04:12,689 --> 01:04:14,690
+01:04:12,999 --> 01:04:14,859
 <i>And for you, Samwise Gamgee...</i>
 
 526
-01:04:14,690 --> 01:04:17,590
+01:04:15,142 --> 01:04:17,759
 <i>...Elven rope made of hithlain.</i>
 
 527
-01:04:17,590 --> 01:04:19,790
+01:04:17,930 --> 01:04:19,699
 Thank you, my lady.
 
 528
-01:04:21,690 --> 01:04:24,891
-Have you run out of those nice, shiny daggers?
+01:04:22,010 --> 01:04:25,211
+Have you run out of
+those nice, shiny daggers?
 
 529
-01:04:31,391 --> 01:04:34,291
-And what gift would a dwarf ask of the elves?
+01:04:31,611 --> 01:04:34,511
+And what gift would a
+dwarf ask of the elves?
 
 530
-01:04:34,691 --> 01:04:36,792
+01:04:34,918 --> 01:04:35,967
 Nothing.
 
 531
-01:04:37,492 --> 01:04:40,692
+01:04:37,679 --> 01:04:41,088
 Except to look upon the lady
 of the Galadhrim one last time...
 
 532
-01:04:41,392 --> 01:04:46,393
+01:04:41,612 --> 01:04:46,613
 ...for she is more fair than all
 the jewels beneath the earth.
 
 533
-01:04:53,593 --> 01:04:55,093
+01:04:53,868 --> 01:04:55,368
 Actually....
 
 534
-01:04:55,393 --> 01:04:56,994
+01:04:55,686 --> 01:04:57,287
 There was one thing.
 
 535
-01:04:57,894 --> 01:05:00,394
+01:04:57,923 --> 01:05:00,423
 No, no, I couldn't.
 It's quite impossible.
 
 536
-01:05:00,694 --> 01:05:03,394
+01:05:00,888 --> 01:05:02,387
 Stupid to ask.
 
 537
-01:05:06,094 --> 01:05:08,095
+01:05:06,525 --> 01:05:08,302
 <i>I have nothing greater to give...</i>
 
 538
-01:05:08,095 --> 01:05:11,795
+01:05:08,765 --> 01:05:11,399
 <i>...than the gift you already bear.</i>
 
 539
-01:05:12,498 --> 01:05:13,541
+01:05:12,985 --> 01:05:15,068
 [Sindarin] <i>Am meleth dîn...</i>
 [English] For her love...
 
 540
-01:05:14,817 --> 01:05:20,073
+01:05:15,241 --> 01:05:20,769
 [Sindarin] <i>...I ant e guil Arwen Undómiel pígatha.</i>
 [English] ...the gift of life of Arwen will fade.
 
 541
-01:05:21,224 --> 01:05:23,061
+01:05:21,491 --> 01:05:23,328
 [Sindarin] <i>Aníron i e broniatha...</i>
 [English] I wish that she endures...
 
 542
-01:05:23,787 --> 01:05:28,107
+01:05:24,197 --> 01:05:28,517
 [Sindarin] <i>...Ad ae periatham athar i methid en-amar hen.</i>
 [English] ...even if we separate beyond the limits of this world.
 
 543
-01:05:30,810 --> 01:05:36,823
+01:05:31,194 --> 01:05:37,207
 [Sindarin] <i>Aníron i e círatha na Valinor.</i>
 [English] I wish that she sails to Valinor.
 
 544
-01:05:37,297 --> 01:05:40,197
+01:05:37,712 --> 01:05:39,806
 That choice is yet before her.
 
 545
-01:05:41,098 --> 01:05:43,898
+01:05:41,493 --> 01:05:43,919
 You have your own choice to make, Aragorn.
 
 546
-01:05:44,298 --> 01:05:49,798
+01:05:44,663 --> 01:05:49,798
 To rise above the height of all your
 fathers since the days of Elendil...
 
 547
-01:05:50,298 --> 01:05:54,499
+01:05:50,630 --> 01:05:54,811
 ...or to fall into darkness
 with all that is left of your kin.
 
 548
-01:06:01,584 --> 01:06:02,620
+01:06:01,989 --> 01:06:03,194
 [Quenya] <i>Namárië.</i>
 [English] Farewell.
 
 549
-01:06:06,899 --> 01:06:09,777
+01:06:07,314 --> 01:06:10,482
 [Sindarin] <i>Nadath nâ i moe cerich...</i>
 [English] There is much you have yet to do...
 
 550
-01:06:12,284 --> 01:06:13,578
+01:06:12,796 --> 01:06:14,090
 [Sindarin] <i>...dan...</i>
 [English] ...but...
 
 551
-01:06:16,561 --> 01:06:19,721
+01:06:16,816 --> 01:06:19,976
 [Sindarin] <i>...ú-'eveditham, Elessar.</i>
 [English] ...we shall not meet again, Elessar.
 
 552
-01:06:22,301 --> 01:06:25,402
+01:06:22,602 --> 01:06:25,402
 <i>Farewell, Frodo Baggins.</i>
 
 553
-01:06:25,402 --> 01:06:28,902
+01:06:25,798 --> 01:06:28,902
 <i>I give you the light of Earendil...</i>
 
 554
-01:06:29,902 --> 01:06:32,102
+01:06:30,102 --> 01:06:32,302
 <i>...our most beloved star.</i>
 
 555
-01:06:41,303 --> 01:06:45,503
+01:06:41,699 --> 01:06:45,503
 <i>May it be a light for you in dark places...</i>
 
 556
-01:06:45,904 --> 01:06:49,904
+01:06:46,308 --> 01:06:50,308
 <i>... when all other lights go out.</i>
 
 557
-01:06:59,005 --> 01:07:02,005
-I have taken my worst wound at this parting...
+01:06:59,007 --> 01:07:02,204
+I have taken my worst
+wound at this parting...
 
 558
-01:07:02,805 --> 01:07:06,805
-...having looked my last upon that which is fairest.
+01:07:03,093 --> 01:07:04,978
+...having looked my last upon that...
 
 559
-01:07:07,806 --> 01:07:11,006
+01:07:06,095 --> 01:07:07,294
+...which is fairest.
+
+560
+01:07:07,806 --> 01:07:11,246
 Henceforth I will call nothing fair
 unless it be her gift to me.
 
-560
-01:07:11,406 --> 01:07:13,306
+561
+01:07:11,831 --> 01:07:13,109
 What was her gift?
 
-561
-01:07:13,606 --> 01:07:18,306
-I asked her for one hair from her golden head.
-
 562
-01:07:19,207 --> 01:07:22,007
-She gave me three.
+01:07:13,795 --> 01:07:17,617
+I asked her for one hair
+from her golden head.
 
 563
-01:09:04,316 --> 01:09:07,617
-Gollum. He has tracked us since Moria.
+01:07:19,516 --> 01:07:21,529
+She gave me three.
 
 564
-01:09:11,517 --> 01:09:14,417
-I had hoped we would lose him on the river.
+01:09:04,512 --> 01:09:07,617
+Gollum. He has tracked us since Moria.
 
 565
-01:09:14,817 --> 01:09:17,817
-But he's too clever a waterman.
+01:09:11,808 --> 01:09:14,417
+I had hoped we would lose him on the river.
 
 566
-01:09:18,818 --> 01:09:22,018
-And if he alerts the enemy to our whereabouts...
+01:09:15,109 --> 01:09:17,314
+But he's too clever a waterman.
 
 567
-01:09:22,018 --> 01:09:24,318
-...it will make the crossing even more dangerous.
+01:09:19,028 --> 01:09:21,405
+And if he alerts the enemy
+to our whereabouts...
 
 568
-01:09:24,618 --> 01:09:26,618
-Have some food, Mr. Frodo.
+01:09:22,497 --> 01:09:24,621
+...it will make the crossing
+even more dangerous.
 
 569
-01:09:26,918 --> 01:09:29,919
+01:09:24,921 --> 01:09:26,618
+Have some food, Mr. Frodo.
+
+570
+01:09:27,224 --> 01:09:30,122
 - No, Sam.
 - You haven't eaten anything all day.
 
-570
-01:09:30,319 --> 01:09:33,219
+571
+01:09:30,319 --> 01:09:33,415
 You're not sleeping, neither.
 Don't think I haven't noticed.
 
-571
-01:09:34,219 --> 01:09:37,119
+572
+01:09:34,523 --> 01:09:37,119
 - Mr. Frodo
 - I'm all right.
 
-572
-01:09:37,419 --> 01:09:38,519
+573
+01:09:37,607 --> 01:09:38,707
 But you're not.
 
-573
-01:09:38,919 --> 01:09:41,420
+574
+01:09:39,292 --> 01:09:40,609
 I'm here to help you.
 
-574
-01:09:41,420 --> 01:09:43,220
+575
+01:09:41,903 --> 01:09:43,703
 I promised Gandalf that I would.
 
-575
-01:09:49,320 --> 01:09:51,821
+576
+01:09:49,603 --> 01:09:51,717
 You can't help me, Sam.
 
-576
-01:09:54,221 --> 01:09:55,821
+577
+01:09:54,504 --> 01:09:56,104
 Not this time.
 
-577
-01:09:58,821 --> 01:10:00,821
+578
+01:09:59,293 --> 01:10:00,865
 Get some sleep.
 
-578
-01:10:07,222 --> 01:10:09,322
+579
+01:10:07,371 --> 01:10:09,471
 Minas Tirith is the safer road.
 
-579
-01:10:09,922 --> 01:10:12,523
+580
+01:10:10,127 --> 01:10:13,197
 You know that.
 From there we can regroup.
 
-580
-01:10:13,323 --> 01:10:15,423
-Strike out for Mordor from a place of strength.
-
 581
-01:10:15,823 --> 01:10:18,523
-There is no strength in Gondor that can avail us.
+01:10:13,696 --> 01:10:16,003
+Strike out for Mordor
+from a place of strength.
 
 582
-01:10:19,223 --> 01:10:21,123
-You were quick enough to trust the elves.
+01:10:16,186 --> 01:10:19,105
+There is no strength in
+Gondor that can avail us.
 
 583
-01:10:23,023 --> 01:10:25,824
-Have you so little faith in your own people?
+01:10:19,489 --> 01:10:21,389
+You were quick enough to trust the elves.
 
 584
-01:10:25,824 --> 01:10:28,824
+01:10:23,405 --> 01:10:25,824
+Have you so little faith
+in your own people?
+
+585
+01:10:26,396 --> 01:10:29,494
 Yes, there is weakness.
 There is frailty.
 
-585
-01:10:29,224 --> 01:10:32,424
+586
+01:10:29,705 --> 01:10:32,910
 But there is courage also,
 and honor to be found in men.
 
-586
-01:10:32,724 --> 01:10:34,825
+587
+01:10:32,935 --> 01:10:34,825
 But you will not see that.
 
-587
-01:10:35,325 --> 01:10:36,625
+588
+01:10:35,530 --> 01:10:36,830
 You are afraid!
 
-588
-01:10:37,025 --> 01:10:39,425
-All your life, you have hidden in the shadows.
-
 589
-01:10:39,825 --> 01:10:43,125
-Scared of who you are, of what you are.
+01:10:37,278 --> 01:10:39,800
+All your life, you have
+hidden in the shadows.
 
 590
-01:10:45,726 --> 01:10:49,926
+01:10:39,825 --> 01:10:42,509
+Scared of who you are, of what you are.
+
+591
+01:10:45,726 --> 01:10:49,302
 I will not lead the ring within
 a hundred leagues of your city.
 
-591
-01:11:01,927 --> 01:11:03,227
+592
+01:11:02,110 --> 01:11:03,410
 Frodo.
 
-592
-01:11:05,127 --> 01:11:06,527
+593
+01:11:05,396 --> 01:11:06,756
 The Argonath.
 
-593
+594
 01:11:06,781 --> 01:11:23,574
 {\an8} [Quenya] ♫ <i> Et Eärello, Endorenna utúlien. </i> ♫
 {\an8} [English] ♫ Out of the Great Sea, to Middle-earth I am come. ♫
 
-594
-01:11:10,128 --> 01:11:13,628
-Long have I desired to look upon the kings of old.
-
 595
-01:11:14,528 --> 01:11:16,328
-My kin.
+01:11:10,428 --> 01:11:13,928
+Long have I desired to
+look upon the kings of old.
 
 596
+01:11:14,828 --> 01:11:16,628
+My kin.
+
+597
 01:11:23,575 --> 01:11:33,852
 {\an8} [Quenya] ♫ <i> Sinome, maruvan, ar hildinyar. </i> ♫
 {\an8} [English] ♫ In this place, I will abide, and my heirs. ♫
 
-597
-01:12:35,536 --> 01:12:37,536
+598
+01:12:35,807 --> 01:12:37,513
 We cross the lake at nightfall.
 
-598
-01:12:37,936 --> 01:12:40,336
+599
+01:12:38,119 --> 01:12:40,324
 Hide the boats and continue on foot.
 
-599
-01:12:40,636 --> 01:12:43,936
+600
+01:12:40,907 --> 01:12:43,874
 - We approach Mordor from the North.
 - Oh, yes?
 
-600
-01:12:44,536 --> 01:12:48,237
+601
+01:12:44,408 --> 01:12:48,109
 Just a simple matter of finding
 our way through Emyn Muil...
 
-601
-01:12:48,537 --> 01:12:51,637
-...an impassable labyrinth of razor-sharp rocks.
-
 602
-01:12:51,937 --> 01:12:54,937
-And after that, it gets even better.
+01:12:48,681 --> 01:12:52,277
+...an impassable labyrinth
+of razor-sharp rocks.
 
 603
-01:12:55,437 --> 01:13:00,138
+01:12:52,302 --> 01:12:54,937
+And after that, it gets even better.
+
+604
+01:12:55,798 --> 01:13:00,716
 Festering, stinking marshland
 as far as the eye can see.
 
-604
-01:13:00,638 --> 01:13:01,938
+605
+01:13:01,010 --> 01:13:02,310
 That is our road.
 
-605
-01:13:03,538 --> 01:13:06,639
+606
+01:13:03,813 --> 01:13:07,025
 I suggest you take some rest and
 recover your strength, Master Dwarf.
 
-606
-01:13:06,939 --> 01:13:08,539
+607
+01:13:07,050 --> 01:13:08,209
 Recover my...
 
-607
-01:13:11,739 --> 01:13:13,539
+608
+01:13:11,994 --> 01:13:13,794
 - We should Leave now.
 - No.
 
-608
-01:13:13,839 --> 01:13:18,040
+609
+01:13:14,010 --> 01:13:18,211
 Orcs patrol the eastern shore.
 We must wait for cover of darkness.
 
-609
-01:13:18,440 --> 01:13:21,840
-It is not the eastern shore that worries me.
-
 610
-01:13:22,140 --> 01:13:25,940
+01:13:18,795 --> 01:13:20,815
+It is not the eastern
+shore that worries me.
+
+611
+01:13:22,415 --> 01:13:25,514
 A shadow and a threat has
 been growing in my mind.
 
-611
-01:13:26,640 --> 01:13:30,641
-Something draws near.
-I can feel it.
-
 612
-01:13:32,841 --> 01:13:37,541
-Recover strength?
-Pay no heed to that, young hobbit.
+01:13:26,929 --> 01:13:28,604
+Something draws near.
 
 613
-01:13:38,341 --> 01:13:39,942
-Where's Frodo?
+01:13:29,283 --> 01:13:31,218
+I can feel it.
 
 614
-01:14:05,644 --> 01:14:07,544
-None of us should wander alone.
+01:13:33,034 --> 01:13:34,470
+Recover strength?
 
 615
-01:14:08,844 --> 01:14:10,944
-You, least of all.
+01:13:35,329 --> 01:13:37,018
+Pay no heed to
+that, young hobbit.
 
 616
-01:14:11,244 --> 01:14:13,545
-So much depends on you.
+01:13:38,579 --> 01:13:40,180
+Where's Frodo?
 
 617
-01:14:14,745 --> 01:14:16,645
-Frodo?
+01:14:06,005 --> 01:14:07,905
+None of us should wander alone.
 
 618
-01:14:23,846 --> 01:14:26,346
-I know why you seek solitude.
+01:14:09,206 --> 01:14:10,721
+You, least of all.
 
 619
-01:14:27,146 --> 01:14:30,446
-You suffer. I see it day by day.
+01:14:11,596 --> 01:14:13,593
+So much depends on you.
 
 620
-01:14:31,346 --> 01:14:34,347
-You sure you do not suffer needlessly?
+01:14:15,111 --> 01:14:16,634
+Frodo?
 
 621
-01:14:36,047 --> 01:14:38,647
-There are other ways, Frodo.
+01:14:24,123 --> 01:14:26,121
+I know why you seek solitude.
 
 622
-01:14:38,947 --> 01:14:42,647
+01:14:27,424 --> 01:14:30,304
+You suffer. I see it day by day.
+
+623
+01:14:31,701 --> 01:14:34,228
+You sure you do not suffer needlessly?
+
+624
+01:14:36,489 --> 01:14:38,295
+There are other ways, Frodo.
+
+625
+01:14:39,201 --> 01:14:42,401
 - Other paths that we might take.
 - I know what you would say.
 
-623
-01:14:42,947 --> 01:14:46,548
-It would seem like wisdom but
+626
+01:14:42,987 --> 01:14:46,548
+And it would seem like wisdom but
 for the warning in my heart.
 
-624
-01:14:46,948 --> 01:14:49,948
+627
+01:14:47,068 --> 01:14:49,948
 Warning...against what?
 
-625
-01:14:50,248 --> 01:14:52,248
+628
+01:14:50,512 --> 01:14:52,248
 We're all afraid, Frodo.
 
-626
-01:14:52,548 --> 01:14:56,049
+629
+01:14:52,789 --> 01:14:56,222
 But to let that fear drive us,
 to destroy what hope we have...
 
-627
-01:14:56,449 --> 01:15:00,049
+630
+01:14:56,600 --> 01:15:00,463
 ...don't you see that is madness?
 - There is no other way.
 
-628
-01:15:02,049 --> 01:15:05,149
-I ask only for the strength to defend my people!
+631
+01:15:02,304 --> 01:15:05,604
+I ask only for the strength
+to defend my people!
 
-629
-01:15:06,950 --> 01:15:08,850
+632
+01:15:07,122 --> 01:15:09,289
 - If you would but lend me the ring.
 - No.
 
-630
-01:15:10,150 --> 01:15:13,650
+633
+01:15:10,377 --> 01:15:14,186
 - Why do you recoil? I am no thief.
 - You are not yourself.
 
-631
-01:15:15,750 --> 01:15:18,851
+634
+01:15:15,911 --> 01:15:18,851
 What chance do you think you have?
 
-632
-01:15:19,151 --> 01:15:23,651
+635
+01:15:19,414 --> 01:15:23,651
 They will find you.
 They will take the ring.
 
-633
-01:15:24,051 --> 01:15:27,651
+636
+01:15:24,301 --> 01:15:27,901
 And you will beg for death before the end!
 
-634
-01:15:29,952 --> 01:15:31,952
+637
+01:15:30,023 --> 01:15:31,952
 You fool!
 
-635
-01:15:31,952 --> 01:15:36,052
+638
+01:15:32,597 --> 01:15:36,052
 It is not yours, save by unhappy chance!
 It could have been mine.
 
-636
+639
 01:15:36,352 --> 01:15:39,053
 It should be mine! Give it to me!
 
-637
-01:15:39,353 --> 01:15:40,553
+640
+01:15:39,519 --> 01:15:40,828
 - Give it to me!
 - No!
 
-638
-01:15:40,853 --> 01:15:42,653
+641
+01:15:40,942 --> 01:15:42,742
 - Give it to me!
 - No.
 
-639
-01:15:50,354 --> 01:15:52,254
+642
+01:15:50,604 --> 01:15:52,504
 I see your mind.
 
-640
-01:15:52,654 --> 01:15:55,454
+643
+01:15:52,815 --> 01:15:55,615
 You will take the ring to Sauron!
 
-641
-01:15:55,754 --> 01:15:57,554
+644
+01:15:55,921 --> 01:15:57,721
 You will betray us!
 
-642
-01:15:57,854 --> 01:16:00,955
-You'll go to your death, and the death of us all!
+645
+01:15:57,991 --> 01:16:01,200
+You'll go to your death,
+and the death of us all!
 
-643
-01:16:01,455 --> 01:16:04,955
+646
+01:16:01,703 --> 01:16:05,486
 Curse you!
 Curse you and all the halflings!
 
-644
-01:16:12,156 --> 01:16:13,656
+647
+01:16:12,372 --> 01:16:13,872
 Frodo?
 
-645
-01:16:17,956 --> 01:16:19,556
+648
+01:16:18,294 --> 01:16:19,894
 Frodo.
 
-646
-01:16:23,557 --> 01:16:25,457
+649
+01:16:23,892 --> 01:16:25,079
 What have I done?
 
-647
-01:16:25,757 --> 01:16:27,457
+650
+01:16:26,160 --> 01:16:27,644
 Please, Frodo.
 
-648
-01:16:27,757 --> 01:16:30,257
+651
+01:16:28,105 --> 01:16:30,017
 Frodo, I'm sorry!
 
-649
+652
+01:16:30,778 --> 01:16:31,865
+Frodo.
+
+653
 01:16:56,745 --> 01:16:58,745
 [Black Speech] Akha...
 [English] Here...
 
-650
+654
 01:17:00,070 --> 01:17:01,870
 [Black Speech] ...ashi...
 [English] ...only...
 
-651
+655
 01:17:00,660 --> 01:17:04,160
 Ash Ghurûm
 (They will fall)
 
-652
+656
 01:17:01,931 --> 01:17:03,431
 [Black Speech] ...gurum!
 [English] ...death!
 
-653
+657
 01:17:18,962 --> 01:17:20,262
 Frodo?
 
-654
+658
 01:17:21,562 --> 01:17:24,562
 - It has taken Boromir.
 - Where is the ring?
 
-655
+659
 01:17:24,962 --> 01:17:26,662
 Stay away!
 
-656
+660
 01:17:27,062 --> 01:17:28,663
 Frodo!
 
-657
+661
 01:17:30,963 --> 01:17:34,663
 - I swore to protect you.
 - Can you protect me from yourself?
 
-658
+662
 01:17:37,148 --> 01:17:42,212
 {\an8} [Quenya] ♫ <i> I tuo, i macil. </i> ♫
 {\an8} [English] ♫ The strength, The weapon. ♫
 
-659
+663
 01:17:44,564 --> 01:17:46,864
 Would you destroy it?
 
-660
+664
 01:17:52,065 --> 01:17:53,865
 <i>Aragorn.</i>
 
-661
+665
 01:17:57,365 --> 01:17:59,565
 <i>Aragorn.</i>
 
-662
+666
 01:18:01,566 --> 01:18:03,266
 <i>Elessar.</i>
 
-663
+667
 01:18:10,967 --> 01:18:14,167
 I would have gone with you to the end.
 
-664
+668
 01:18:14,967 --> 01:18:17,767
 Into the very fires of Mordor.
 
-665
+669
 01:18:21,267 --> 01:18:22,368
 I know.
 
-666
+670
 01:18:24,768 --> 01:18:30,068
 Look after the others. Especially Sam.
 He will not understand.
 
-667
+671
 01:18:34,069 --> 01:18:35,669
 Go, Frodo!
 
-668
+672
 01:18:38,769 --> 01:18:40,269
 Run.
 
-669
+673
 01:18:40,269 --> 01:18:42,069
 Run!
 
-670
+674
 01:19:06,672 --> 01:19:08,272
 Mr. Frodo!
 
-671
+675
 01:19:17,773 --> 01:19:19,373
 Find the halfling!
 
-672
+676
 01:19:21,073 --> 01:19:23,473
 Find the halfling!
 
-673
+677
 01:19:27,174 --> 01:19:28,774
 Elendil!
 
-674
+678
 01:19:35,274 --> 01:19:36,774
 Aragorn, go!
 
-675
+679
 01:19:58,476 --> 01:19:59,777
 Frodo!
 
-676
+680
 01:20:00,377 --> 01:20:01,977
 Hide here. Quick!
 
-677
+681
 01:20:02,677 --> 01:20:04,077
 Come on!
 
-678
+682
 01:20:06,577 --> 01:20:08,577
 What's he doing?
 
-679
+683
 01:20:12,778 --> 01:20:14,778
 He's leaving.
 
-680
+684
 01:20:19,678 --> 01:20:22,479
 - No!
 - Pippin!
 
-681
+685
 01:20:27,479 --> 01:20:29,679
 Run, Frodo. Go!
 
-682
+686
 01:20:30,379 --> 01:20:33,280
 - Hey! Hey, you!
 - Over here!
 
-683
+687
 01:20:33,880 --> 01:20:35,380
 - Over here!
 - This way!
 
-684
+688
 01:20:46,381 --> 01:20:48,581
 - It's working!
 - I know it's working! Run!
 
-685
+689
 01:21:43,986 --> 01:21:46,886
 - The horn of Gondor.
 - Boromir.
 
-686
+690
 01:22:30,190 --> 01:22:31,190
 Run!
 
-687
+691
 01:26:02,910 --> 01:26:04,410
 No.
 
-688
+692
 01:26:08,510 --> 01:26:11,411
 - They took the little ones.
 - Hold still.
 
-689
+693
 01:26:11,711 --> 01:26:13,711
 Frodo. Where is Frodo?
 
-690
+694
 01:26:15,711 --> 01:26:17,111
 I let Frodo go.
 
-691
+695
 01:26:17,811 --> 01:26:20,311
 Then you did what I could not.
 
-692
+696
 01:26:21,412 --> 01:26:24,612
 I tried to take the ring from him.
 
-693
+697
 01:26:25,212 --> 01:26:29,312
 - The ring is beyond our reach now.
 - Forgive me.
 
-694
+698
 01:26:29,712 --> 01:26:31,913
 I did not see it.
 
-695
+699
 01:26:32,213 --> 01:26:35,313
 - I have failed you all.
 - No, Boromir.
 
-696
+700
 01:26:35,913 --> 01:26:38,313
 You fought bravely.
 
-697
+701
 01:26:38,713 --> 01:26:41,213
 You have kept your honor.
 
-698
+702
 01:26:42,013 --> 01:26:43,714
 Leave it.
 
-699
+703
 01:26:44,214 --> 01:26:46,214
 It is over.
 
-700
+704
 01:26:47,514 --> 01:26:52,614
 The world of men will fall and
 all will come to darkness...
 
-701
+705
 01:26:53,215 --> 01:26:56,015
 ...and my city to ruin.
 
-702
+706
 01:27:00,215 --> 01:27:02,915
 I do not know what strength is in my blood...
 
-703
+707
 01:27:02,915 --> 01:27:07,016
 ...but I swear to you, I will
 not let the white city fall...
 
-704
+708
 01:27:08,116 --> 01:27:10,516
 ...nor our people fail.
 
-705
+709
 01:27:11,516 --> 01:27:12,916
 Our people.
 
-706
+710
 01:27:16,817 --> 01:27:18,817
 Our people.
 
-707
+711
 01:27:40,619 --> 01:27:43,519
 I would have followed you, my brother.
 
-708
+712
 01:27:45,219 --> 01:27:47,119
 My captain.
 
-709
+713
 01:27:49,920 --> 01:27:51,720
 My king.
 
-710
+714
 01:28:11,422 --> 01:28:13,522
 Be at peace...
 
-711
+715
 01:28:14,122 --> 01:28:15,922
 ...son of Gondor.
 
-712
+716
 01:28:32,424 --> 01:28:35,624
 They will look for his coming from the white tower.
 
-713
+717
 01:28:36,324 --> 01:28:39,224
 But he will not return.
 
-714
+718
 01:29:02,626 --> 01:29:04,527
 Frodo!
 
-715
+719
 01:29:24,028 --> 01:29:27,229
 <i>I wish the ring had never come to me.</i>
 
-716
+720
 01:29:28,529 --> 01:29:31,329
 <i>I wish none of this had happened.</i>
 
-717
+721
 01:29:34,529 --> 01:29:37,230
 <i>So do all who live to see such times...</i>
 
-718
+722
 01:29:37,530 --> 01:29:40,830
 <i>...but that is not for them to decide.</i>
 
-719
+723
 01:29:41,230 --> 01:29:43,730
 <i>All you have to decide...</i>
 
-720
+724
 01:29:44,030 --> 01:29:48,631
 <i>...is what to do with the time that is given to you.</i>
 
-721
+725
 01:30:17,533 --> 01:30:19,533
 Frodo, no!
 
-722
+726
 01:30:20,334 --> 01:30:21,534
 Frodo!
 
-723
+727
 01:30:22,234 --> 01:30:24,834
 - Mr. Frodo!
 - No, Sam.
 
-724
+728
 01:30:28,534 --> 01:30:30,434
 Go back, Sam!
 
-725
+729
 01:30:31,035 --> 01:30:34,435
 - I'm going to Mordor alone.
 - Of course you are.
 
-726
+730
 01:30:34,735 --> 01:30:37,435
 And I'm coming with you!
 
-727
+731
 01:30:38,135 --> 01:30:40,435
 You can't swim!
 
-728
+732
 01:30:44,236 --> 01:30:45,936
 Sam!
 
-729
+733
 01:30:51,536 --> 01:30:52,937
 Sam!
 
-730
+734
 01:31:33,840 --> 01:31:36,541
 I made a promise, Mr. Frodo.
 
-731
+735
 01:31:36,941 --> 01:31:41,041
 A promise:
 "Don't you leave him, Samwise Gamgee."
 
-732
+736
 01:31:42,341 --> 01:31:44,841
 And I don't mean to.
 
-733
+737
 01:31:45,241 --> 01:31:47,342
 I don't mean to.
 
-734
+738
 01:31:49,142 --> 01:31:50,842
 Oh Sam.
 
-735
+739
 01:32:05,843 --> 01:32:07,443
 Come on.
 
-736
+740
 01:32:35,846 --> 01:32:40,246
 Hurry! Frodo and Sam have
 reached the eastern shore.
 
-737
+741
 01:32:55,348 --> 01:33:00,248
 - You mean not to follow them.
 - Frodo's fate is no longer in our hands.
 
-738
+742
 01:33:03,749 --> 01:33:08,449
 Then it has all been in vain.
 The fellowship has failed.
 
-739
+743
 01:33:20,450 --> 01:33:23,550
 Not if we hold true to each other.
 
-740
+744
 01:33:25,051 --> 01:33:29,351
 We will not abandon Merry and
 Pippin to torment and death.
 
-741
+745
 01:33:30,451 --> 01:33:35,552
 Not while we have strength left.
 Leave all that can be spared behind.
 
-742
+746
 01:33:37,052 --> 01:33:38,952
 We travel light.
 
-743
+747
 01:33:39,252 --> 01:33:41,152
 Let us hunt some orc.
 
-744
+748
 01:33:44,152 --> 01:33:46,152
 Yes!
 
-745
+749
 01:34:05,154 --> 01:34:06,554
 Mordor.
 
-746
+750
 01:34:07,254 --> 01:34:10,455
 I hope the others find a safer road.
 
-747
+751
 01:34:11,555 --> 01:34:14,055
 Strider will look after them.
 
-748
+752
 01:34:15,155 --> 01:34:18,355
 I don't suppose we'll ever see them again.
 
-749
+753
 01:34:18,855 --> 01:34:21,156
 We may yet, Mr. Frodo.
 
-750
+754
 01:34:21,156 --> 01:34:22,856
 We may.
 
-751
+755
 01:34:25,056 --> 01:34:26,156
 Sam...
 
-752
+756
 01:34:29,757 --> 01:34:32,257
 ...I'm glad you are with me.
 
